@@ -1,0 +1,16 @@
+Policy Number: POL123456
+Policyholder Name: John Doe
+Effective Dates: 01/01/2025 - 01/01/2026
+Date of Loss: 02/05/2026
+Time of Loss: 14:30
+Location: 123 Maple St, Springfield
+Description: Minor fender bender in parking lot. No injuries.
+Claimant: John Doe
+Third Parties: None
+Contact Details: 555-0199
+Asset Type: 2022 Toyota Camry
+Asset ID: VIN987654321
+Estimated Damage: 1500
+Claim Type: Collision
+Attachments: Photos of bumper
+Initial Estimate: 1500
